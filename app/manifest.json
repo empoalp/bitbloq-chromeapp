@@ -14,7 +14,9 @@
       "http://front.bitbloq.k8s-dev.bq.com/",
       "*://bitbloq.bq.com/",
       "*://bitbloq.org/",
-      "*://www.bitbloq.bq.com/"
+      "*://www.bitbloq.bq.com/",
+      "*://*.bitbloq.cc/*",
+      "*://localhost/*"
     ]
   },
   "permissions": ["serial"],
